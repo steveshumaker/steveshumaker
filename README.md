@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/YWy93Zf9eW8RMlK0gK/giphy.gif" width="100">
+  <img src="https://media.giphy.com/media/bPCwGUF2sKjyE/giphy.gif" width="100">
 </div>
 <!--
 **steveshumaker/steveshumaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
