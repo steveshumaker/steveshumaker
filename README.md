@@ -14,9 +14,26 @@
 I'm a Full Stack Developer who loves sports, the outdoors, physical training, and personal growth.
 
 - 🔭 I'm currently working as a business analyst for Amazon, while building front end and back end applications.
+ 
 - 🌱 I'm currently learning data structures and algorithms, as well as Redux Sagas.
+  
 - ⚡ In my free time, I 🎮, get outside with my pup, and enjoy a beer with friends.
+  
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/steve-shumaker1/)
+
+---
+
+### 🛠️ Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40">&nbsp;
+  <img src="" title="" alt="" width="40" height="40">&nbsp;
+  <img src="" title="" alt="" width="40" height="40">&nbsp;
+  <img src="" title="" alt="" width="40" height="40">&nbsp;
+  <img src="" title="" alt="" width="40" height="40">&nbsp;
+  <img src="" title="" alt="" width="40" height="40">&nbsp;
+  <img src="" title="" alt="" width="40" height="40">&nbsp;
+
+</div>
 
 <!--
 **steveshumaker/steveshumaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
