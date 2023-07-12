@@ -37,6 +37,12 @@ I'm a Full Stack Developer who loves sports, the outdoors, physical training, an
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
 </div>
 
+---
+
+### 🔥 My Stats :
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=steveshumaker&theme=dark&background=000000)](https://git.io/streak-stats)
+
 <!--
 **steveshumaker/steveshumaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
