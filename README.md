@@ -43,6 +43,8 @@ I'm a Full Stack Developer who loves sports, the outdoors, physical training, an
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=steveshumaker&theme=dark&background=000000)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steveshumaker&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **steveshumaker/steveshumaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
