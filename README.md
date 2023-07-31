@@ -13,7 +13,7 @@
 
 I'm a Full Stack Developer who loves sports, the outdoors, physical training, and personal growth.
 
-- 🔭 I'm currently working as a business analyst for Amazon, while building front end and back end applications.
+- 🔭 I'm currently working as a business analyst for Amazon, while building full stack applications.
  
 - 🌱 I'm currently learning data structures and algorithms, as well as Redux Sagas.
   
